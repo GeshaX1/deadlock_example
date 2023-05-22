@@ -1,9 +1,6 @@
 To demonstrate deadlock in C#, we can create a simple console application that creates two threads and uses two objects as locks. Here are the steps:
 
-Create a new console application in Visual Studio.
-Add the following code to the Program.cs file:
-
-
+Create a new console application in Visual Studio and add paste the code.
 
 In this code, we define two objects lock1 and lock2 that will be used as locks in our methods.
 We create two threads t1 and t2 that will execute our methods Method1 and Method2.
