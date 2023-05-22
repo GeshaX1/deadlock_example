@@ -57,6 +57,7 @@ namespace DeadlockDemo
 }
 
 
+
 In this code, we define two objects lock1 and lock2 that will be used as locks in our methods.
 We create two threads t1 and t2 that will execute our methods Method1 and Method2.
 We start the threads and then wait for them to finish using Join.
